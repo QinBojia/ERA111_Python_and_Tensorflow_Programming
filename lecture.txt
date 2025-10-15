@@ -1,0 +1,3 @@
+Python turns plain text into powerful data — one line at a time.  
+Every file holds a story; your code decides how to tell it.  
+Open, read, write, close — the rhythm of Python’s conversation with your computer.
